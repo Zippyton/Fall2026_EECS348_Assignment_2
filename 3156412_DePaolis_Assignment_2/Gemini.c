@@ -1,3 +1,13 @@
+/*
+Program Name: Email Prioritizer
+Description: Prioritizes emails inputted via a text file then produces a 
+Inputs:
+Outputs:
+Collaborators
+Author: Antonio DePaolis
+Creation Date: 9/16/2026
+Revision Date: 9/17/2026
+*/
 #include <stdio.h>    /* Standard input/output library for file operations and printing */
 #include <stdlib.h>   /* Standard library for dynamic memory allocation (malloc, realloc, free) */
 #include <string.h>   /* String library for string copying, comparison, and manipulation */
