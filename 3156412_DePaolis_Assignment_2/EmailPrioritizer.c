@@ -1,13 +1,14 @@
 /*
 Program Name: Email Prioritizer
 Description: Prioritizes emails inputted via a text file by putting them in a MaxHeap
-             then produces outputs for each command inside the text file.
+             then produces outputs for each command inside the text file until it reaches the end
 Inputs: Text file containing email data
 Outputs: Outputs what each command does during file reading.
 Collaborators: Gemini for whole code
 Author: Antonio DePaolis
 Creation Date: 9/16/2026
 Revision Date: 9/17/2026
+Revisions: Modified and added comments. Modified the trim_whitespace() function to handle leading whitespace.
 */
 
 #include <stdio.h>    // standard input/output library for file handling and console I/O
